@@ -1,0 +1,6 @@
+{
+	"extends": "next/core-web-vitals",
+	"rules": {
+		"JSXeslintreact/react-in-jsx-scope": "off"
+	}
+}
